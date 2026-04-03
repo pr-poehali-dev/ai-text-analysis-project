@@ -23,7 +23,9 @@ export default function Footer() {
                   Продукты
                 </a>
                 <a
-                  href="#contact"
+                  href="https://wa.me/79146336788"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
                   Связаться
