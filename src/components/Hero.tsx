@@ -33,9 +33,14 @@ export default function Hero() {
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
           Открой новые возможности для реализации своих идей. Страсть — двигатель перемен
         </p>
-        <button className="mt-10 border border-white text-white px-8 py-3 text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-all duration-300">
+        <a
+          href="https://wa.me/79146336788"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-10 border border-white text-white px-8 py-3 text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-all duration-300"
+        >
           Узнать больше
-        </button>
+        </a>
       </div>
     </div>
   );
